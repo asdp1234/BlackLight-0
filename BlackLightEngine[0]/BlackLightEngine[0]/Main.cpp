@@ -1,11 +1,11 @@
 #include "Tool.h"
+#include <glm.hpp>
 
-int a = 4;
+
 
 int main()
 {
-	
-	
+
 
 	return 0;
 }

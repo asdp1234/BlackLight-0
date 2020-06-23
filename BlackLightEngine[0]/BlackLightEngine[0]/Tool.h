@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 
+
 namespace tools
 {
 	void Print(std::string message);
